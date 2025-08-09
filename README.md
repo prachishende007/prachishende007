@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prachishende182@gmail.com**
 
-- 📄 Know about my experiences [View Resume](./Prachi_Shende_VIIT_Resume.pdf)
+- 📄 Know about my experiences [View Resume](./(https://github.com/prachishende007/Resume/blob/main/Prachi_Shende_VIIT_Resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
