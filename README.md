@@ -31,8 +31,6 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,html,css,powerbi,linux" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
 </p>
 
