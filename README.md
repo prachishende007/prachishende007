@@ -29,12 +29,9 @@
 ---
 
 ### 🛠 Languages and Tools:
-<p align="left" style="display:flex; align-items:center; gap:6px;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,html,css,powerbi,linux" height="40" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,html,css" />
 </p>
-
-
 
 ---
 
