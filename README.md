@@ -56,6 +56,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prachishende007&show_icons=true&hide_title=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight" alt="Stars Earned" height="150"/>
 </p>
 
+---
+##  GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prachishende007&theme=github)
+
+* * *
+
 💡 *“Code is like humor. When you have to explain it, it’s bad.”* 😄
 
 
