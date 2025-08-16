@@ -58,7 +58,7 @@
 
 ---
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=btwimyash&theme=github-compact&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachishende007&theme=github-compact&hide_border=true&area=true)
 
 💡 *“Code is like humor. When you have to explain it, it’s bad.”* 😄
 
