@@ -62,6 +62,6 @@
 
 ---
 
-<p font-style="bold">💡 "Code is like humor. When you have to explain it, it’s bad." 😄</p>
+<p>💡 "Code is like humor. When you have to explain it, it’s bad." 😄</p>
 
 
