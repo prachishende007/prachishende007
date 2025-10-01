@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on **AI-based projects and MERN stack applications**
 - 🌱 I’m currently learning **Advanced Computer Vision and Deep Learning**
-- 👯 I’m looking to collaborate on **Open-source AI or Full Stack projects**
-- 💬 Ask me about **React, Node.js, Python, MediaPipe, or Computer Vision**
+- 🤝🏻 I’m looking to collaborate on **Open-source AI or Full Stack projects**
+- 💬 Ask me about **React, Cpp, Python, MediaPipe, or Computer Vision**
 - 📫 How to reach me: **prachishende182@gmail.com**
 - 📄 Know about my experiences: [**View Resume**](./Prachi_Shende_VIIT_Resume_ML.pdf)
 
