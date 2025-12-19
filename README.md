@@ -3,65 +3,72 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=prachishende007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </h1>
 
-<h3 align="center">Aspiring AI Engineer | Full Stack Developer | Computer Vision Enthusiast</h3>
+<h3 align="center">AI Engineer & Data Scientist | Computer Vision Specialist | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
-- 🔭 I’m currently working on **AI-based projects and MERN stack applications**
-- 🌱 I’m currently learning **Advanced Computer Vision and Deep Learning**
-- 🤝🏻 I’m looking to collaborate on **Open-source AI or Full Stack projects**
-- 💬 Ask me about **React, Cpp, Python, MediaPipe, or Computer Vision**
-- 📫 How to reach me: **prachishende182@gmail.com**
-- 📄 Know about my experiences: [**View Resume**](./Prachi_Shende_VIIT_Resume_ML.pdf)
+### 🚀 About Me
+I am a technical lead and developer focused on building **intelligent systems**. My expertise lies in bridging the gap between robust **Full Stack architectures** and complex **AI/ML models**. Currently, I am specializing in Computer Vision and heuristic-based propensity modeling.
+
+- 🔭 **Featured Project:** [ProspectAI](https://github.com/prachishende007/prospect-ai) – An AI-driven lead scoring agent using NLP and heuristic data pipelines.
+- 🌱 **Currently Learning:** Transformers, GANs, and Advanced Deep Learning for medical imaging.
+- 🤝 **Collaboration:** Interested in open-source AI Research and MLOps projects.
+- 💬 **Ask me about:** Data Pipelines, CNNs, MediaPipe, or the MERN Stack.
 
 ---
 
-### 🌐 Connect with me:
+### 🧠 AI & Machine Learning Stack
+
+
+[Image of a deep learning neural network architecture]
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
+</p>
+
+### 🛠 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,docker,aws" />
+</p>
+
+---
+
+### 📊 Engineering Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachishende007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishende007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prachishende007&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachishende007&theme=github-compact&hide_border=true&area=true)
+
+---
+
+### 🌐 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/prachi-shende-933812259/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prachishende182@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
   <a href="https://github.com/prachishende007" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
 
----
-
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prachishende007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachishende007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prachishende007&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
----
-## ⭐ Stars Earned
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachishende007&show_icons=true&hide_title=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight" alt="Stars Earned" height="150"/>
-</p>
-
----
-## GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachishende007&theme=github-compact&hide_border=true&area=true)
-
----
-
-<p>💡 "Code is like humor. When you have to explain it, it’s bad." 😄</p>
-
-
+<p align="right">💡 <i>"Data is the new oil, but AI is the refinery."</i></p>
