@@ -27,8 +27,6 @@ I am a technical lead and developer focused on building **intelligent systems**.
 ### 🧠 AI & Machine Learning Stack
 
 
-[Image of a deep learning neural network architecture]
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
 </p>
@@ -71,4 +69,6 @@ I am a technical lead and developer focused on building **intelligent systems**.
   </a>
 </p>
 
-<p align="right">💡 <i>"Data is the new oil, but AI is the refinery."</i></p>
+<p align="left">
+  💡 <i>"Data is the new oil, but AI is the refinery."</i>
+</p>
