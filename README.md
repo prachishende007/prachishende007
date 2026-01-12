@@ -38,7 +38,7 @@ I am a technical lead and developer focused on building **intelligent systems**.
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachishende007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
