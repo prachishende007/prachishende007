@@ -17,7 +17,7 @@
 ### 🚀 About Me
 I am a technical lead and developer focused on building **intelligent systems**. My expertise lies in bridging the gap between robust **Full Stack architectures** and complex **AI/ML models**. Currently, I am specializing in Computer Vision and heuristic-based propensity modeling.
 
-- 🔭 **Featured Project:** [Sahaay](https://github.com/prachishende007/Sahaay) – An AI-driven civic issue reporting system using computer visin and YOLOv8.
+- 🔭 **Featured Project:** [Sahaay](https://github.com/prachishende007/Sahaay) – An AI-driven civic issue reporting system using computer vision and YOLOv8.
 - 🌱 **Currently Learning:** Transformers, GANs, and Advanced Deep Learning for medical imaging.
 - 🤝 **Collaboration:** Interested in open-source AI Research and MLOps projects.
 - 💬 **Ask me about:** Data Pipelines, CNNs, MediaPipe, or the MERN Stack.
