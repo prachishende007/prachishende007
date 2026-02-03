@@ -27,9 +27,13 @@ I am a technical lead and developer focused on building **intelligent systems**.
 ### 🧠 AI & Machine Learning Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,numpy,pandas,scipy,mysql" />
+  <br>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-%23FF6F00.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
 </p>
-
-> **Core ML & specialized:** Keras, MediaPipe, Matplotlib, MLflow, NLP
 
 ### 🛠 Development & Deployment
 <p align="left">
@@ -38,8 +42,10 @@ I am a technical lead and developer focused on building **intelligent systems**.
 
 ### 🚀 Rapid Prototyping & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=streamlit,canva" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=canva" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
