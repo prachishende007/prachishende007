@@ -57,7 +57,7 @@ I am a technical lead and developer focused on building **intelligent systems**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prachishende007&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prachishende007&theme=tokyonight" height="170" alt="GitHub Streak"/>
 </p>
 
 ---
