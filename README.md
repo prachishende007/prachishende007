@@ -25,17 +25,21 @@ I am a technical lead and developer focused on building **intelligent systems**.
 ---
 
 ### 🧠 AI & Machine Learning Stack
-
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,numpy,pandas,scipy,mysql" />
 </p>
 
-### 🛠 Development Tools
+> **Core ML & specialized:** Keras, MediaPipe, Matplotlib, MLflow, NLP
+
+### 🛠 Development & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,docker,aws,vercel,netlify,selenium" />
 </p>
 
+### 🚀 Rapid Prototyping & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=streamlit,canva" />
+</p>
 ---
 
 ## 📊 GitHub Stats
